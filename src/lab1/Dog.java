@@ -33,6 +33,8 @@ public class Dog {
                 '}';
     }
     //fjhgjghjgjgggj
+    int a=1;
+    a++;
 
     public void intoHumanAge(){
         System.out.println(name + "'s age in human years is " + age * 7 + " years");
