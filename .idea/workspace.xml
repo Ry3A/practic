@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d97bca95-1ef0-468a-8e9e-9073816300d9" name="Changes" comment="new, second lab">
-      <change afterPath="$PROJECT_DIR$/src/lab3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/LabExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d97bca95-1ef0-468a-8e9e-9073816300d9" name="Changes" comment="new, 4 lab" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +130,7 @@
       <workItem from="1662977264980" duration="782000" />
       <workItem from="1663081626604" duration="502000" />
       <workItem from="1663421464352" duration="4177000" />
-      <workItem from="1664027056762" duration="5933000" />
+      <workItem from="1664027056762" duration="6230000" />
     </task>
     <task id="LOCAL-00001" summary="add comment">
       <created>1662820229986</created>
@@ -169,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662823567016</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new, 4 lab">
+      <created>1664112090672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664112090672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +191,7 @@
     <MESSAGE value="add comment" />
     <MESSAGE value="some!!!" />
     <MESSAGE value="new, second lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="new, second lab" />
+    <MESSAGE value="new, 4 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="new, 4 lab" />
   </component>
 </project>
