@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d97bca95-1ef0-468a-8e9e-9073816300d9" name="Changes" comment="new, 4 lab">
-      <change afterPath="$PROJECT_DIR$/src/lab5/Rec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/Rec1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/Rec2.java" afterDir="false" />
+    <list default="true" id="d97bca95-1ef0-468a-8e9e-9073816300d9" name="Changes" comment="new, 5 lab">
+      <change afterPath="$PROJECT_DIR$/src/lab6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,22 +45,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rec2">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="LabExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab4.LabExample" />
-      <module name="practic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.MyMouse" />
       <module name="practic" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.Test" />
+      <module name="practic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Rec" />
         <item itemvalue="Application.Rec2" />
         <item itemvalue="Application.Rec1" />
-        <item itemvalue="Application.Rec" />
         <item itemvalue="Application.LabExample" />
-        <item itemvalue="Application.MyMouse" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,8 @@
       <workItem from="1663081626604" duration="502000" />
       <workItem from="1663421464352" duration="4177000" />
       <workItem from="1664027056762" duration="6430000" />
-      <workItem from="1664633499130" duration="2037000" />
+      <workItem from="1664633499130" duration="4387000" />
+      <workItem from="1665235863367" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="add comment">
       <created>1662820229986</created>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664112159220</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new, 5 lab">
+      <created>1664635723219</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664635723219</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +212,7 @@
     <MESSAGE value="some!!!" />
     <MESSAGE value="new, second lab" />
     <MESSAGE value="new, 4 lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="new, 4 lab" />
+    <MESSAGE value="new, 5 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="new, 5 lab" />
   </component>
 </project>
